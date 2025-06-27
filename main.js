@@ -30,7 +30,7 @@ for (i = 0; i < checkbox.length; i++) {
 const letrasMaiusculas = 'ABCDEFGHIJKLMNOPQRSTUVXYWZ';
 const letrasMinusculas = 'abcdefghijklmnopqrstuvxywz';
 const numeros = '0123456789';
-const simbolos = '!@%*?';
+const simbolos = '!@%*?#$&';
 geraSenha();
 
 function geraSenha() {
